@@ -18,6 +18,7 @@ const App = () =>{
 
     return (
         <div className="main-container">
+            <h1>Weather Application</h1>
             <input
                 type="text"
                 className="search"
